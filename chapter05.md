@@ -1133,21 +1133,15 @@ En este sprint nos enfocaremos en la corrección de errores detectados en el fro
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
-A continuación, se muestran los commits realizados en el repositorio para el Frontend, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
-
-Repositorio del Frontend en GitHub: <a href="https://github.com/1ASI0729-2510-4317-G2-OpenGG/backend_psymed">Enlace_Repositorio</a>
-
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint 3
 
 | **Repository** | **Branch** | **Commit ID** | **Author** | **Time ago** |
 |----------------|------------|---------------|------------|--------------|
-| PSYMED         | feature/ |  |   |   |
-| PSYMED         | feature/ |  |   |   |
-| PSYMED         | features/|  |   | 3 |
-| PSYMED         | feature/ |  |   |   |
-| PSYMED         | feature/ |  |   |   |   
-| PSYMED         | feature/ |  |   |   |   
-| PSYMED         | feature/ |  |   |   |
-| PSYMED         | feature/ |  |   |   |
+| PSYMED         | feature/patient | e5f8bc8403ae120b48ebe7d188245f694c000f00 | yair  | 3 days ago  |
+| PSYMED         | develop | 205f39de9311c007e3d4527f1670324c99bb1ce7  | sihuar  |  3 days ago |
+| PSYMED         | feature/medic-schedules-and-sections| 275d4f0af5607bde39b08fd0db37cbd2b19b5f72 | ario | 3 days ago |
+| PSYMED         | document_Swagger | f18cb97018d1e30d9402123ef414dabc6002d3c3 | sihuar  |  3 days ago |
+
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
