@@ -1137,10 +1137,10 @@ En esta sección se explica y presenta los avances en implementación con relaci
 
 | **Repository** | **Branch** | **Commit ID** | **Author** | **Time ago** |
 |----------------|------------|---------------|------------|--------------|
-| PSYMED         | feature/patient | e5f8bc8403ae120b48ebe7d188245f694c000f00 | yair  | 3 days ago  |
-| PSYMED         | develop | 205f39de9311c007e3d4527f1670324c99bb1ce7  | sihuar  |  3 days ago |
-| PSYMED         | feature/medic-schedules-and-sections| 275d4f0af5607bde39b08fd0db37cbd2b19b5f72 | ario | 3 days ago |
-| PSYMED         | document_Swagger | f18cb97018d1e30d9402123ef414dabc6002d3c3 | sihuar  |  3 days ago |
+| PSYMED         | feature/patient | e5f8bc8403ae120b48ebe7d188245f694c000f00 | yair  | 1 days ago  |
+| PSYMED         | develop | 205f39de9311c007e3d4527f1670324c99bb1ce7  | sihuar  |  1 days ago |
+| PSYMED         | feature/medic-schedules-and-sections| 275d4f0af5607bde39b08fd0db37cbd2b19b5f72 | ario | 1 days ago |
+| PSYMED         | document_Swagger | f18cb97018d1e30d9402123ef414dabc6002d3c3 | sihuar  |  1 days ago |
 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
