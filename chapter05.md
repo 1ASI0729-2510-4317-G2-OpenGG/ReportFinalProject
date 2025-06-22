@@ -1155,9 +1155,8 @@ En el sprint 3 se logró un avance en la implementación y despliegue
 del back-end. Se desarrollaron varias secciones clave donde el usuario 
 puede guardar y registrar sus datos. A continuación, se presentan algunas evidencias:
 
-
-
-
+<img src="./assets/back1.png" alt="Evidencia 1">
+<img src="./assets/back2.png" alt="Evidencia 2">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
