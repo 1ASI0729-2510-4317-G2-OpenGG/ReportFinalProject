@@ -1177,10 +1177,10 @@ Durante el Sprint 3, se logró desplegar exitosamente el Backend de PsyMed, inte
 En esta parte, se mostrará la participación de los integrantes del grupo para la elaboración de este sprint 3:
 
 Report:
-
+<img src="./assets/report3.png" alt="Reporte">
 
 Bakend:
-
+<img src="./assets/backend3.png" alt="Backend">
 
 
 
