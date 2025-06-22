@@ -1160,18 +1160,21 @@ puede guardar y registrar sus datos. A continuación, se presentan algunas evide
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-Durante el Sprint 3, el enfoque principal se centró en el desarrollo del Backend de la aplicación y en la mejora de funcionalidades existentes. Se implementaron módulos esenciales como el registro de pacientes, profesionales y medicamentos mejorando la experiencia del usuario y aportando mayor valor funcional.
+Durante el Sprint 3, el enfoque principal se centró en la corrección de errores en el frontend y en la implementación del backend de la aplicación. En este ciclo se desarrollaron:
+
+*Nuevas funcionalidades para el registro y gestión de pacientes, profesionales de salud mental y medicamentos.
+
+*Endpoints backend para permitir la interacción con los datos de pacientes, profesionales y medicamentos.
+
+*Mejoras en la interfaz de usuario para optimizar la usabilidad y facilitar la navegación.
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
-Durante el desarrollo de este Sprint, se logró desarrollar exitosamente el Back-end de PsyMed. 
-Esto permitirá que los posibles usuarios guarden sus datos de manera satisfactoria y lograr 
-su atención.
-
+Durante el Sprint 3, se logró desplegar exitosamente el Backend de PsyMed, integrándolo con el Frontend ya existente. Esto permitió que la plataforma funcione de manera completa, facilitando la gestión de pacientes, profesionales y medicamentos. Además, se mejoró la estabilidad y el rendimiento del sistema para ofrecer una mejor experiencia a los usuarios.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
-En esta parte, se mostrará la participación de los integrantes del grupo para la elaboración de este sprint 2:
+En esta parte, se mostrará la participación de los integrantes del grupo para la elaboración de este sprint 3:
 
 Report:
 
