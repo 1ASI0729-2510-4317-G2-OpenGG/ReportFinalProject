@@ -566,6 +566,193 @@ Frontend:
 
 <img src="./assets/collabfront-2.png" alt="deploy front 1">
 
+### 5.2.2. Sprint 3
+#### 5.2.2.1. Sprint Planning 3.
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint 3</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            04/06/25
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad Remota por Whatsapp  
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes OpenGG 
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Chavez Uribe, Ario Joel	<br>
+            - Yair Christofer Aru Acevedo <br>
+            - Diego Vicente Seminario Castillo <br>
+            - Astuyauri Herencia Jhomar Cristian Elias <br>
+            - Ccotarma Ttito Sihuar Eduardo Eusebio <br>
+            - Joel Gerson Prudencio Alcantara <br>
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint 3</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+    Crear repositorio para el Backend y asignación de tareas para implementar sus funciones para los pacientes y profesionales de salud mental.
+</td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 3</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+          Correcion de errores en el Frontend y mejoras en la usabilidad de la aplicación. Se implementaron nuevas funcionalidades como el registro de pacientes, profesionales y medicamentos, así como la visualización de estadísticas biológicas.
+            Se desarrollaron endpoints para la gestión de pacientes, profesionales y medicamentos, permitiendo una interacción más fluida con la aplicación. Además, se mejoró la interfaz de usuario para facilitar la navegación y el acceso a las diferentes funcionalidades.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Velocity</b>
+        </td>
+        <td>
+            126
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            37
+        </td>
+  </tr>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+| Username (GitHub)             | Nombre                                   |
+|-------------------------------|------------------------------------------|
+| Eduardo Sihuar Ccotarma Ttito | Eduardo Sihuar Ccotarma Ttito            |
+| DiegoSeminario                | Diego Vicente Seminario Castillo         |
+| Yair360                       | Yair Christofer Aru Acevedo              |
+| feg06                         | Ario Joel Chavez Uribe                   |
+| Jhomar Cristián Elias         | Jhomar Cristián Elias Astuyauri Herencia |
+| joel5871                      | Joel Prudencio Alcantara                 |
+
+#### 5.2.2.3. Sprint Backlog 3
+
+| **US** | **Tarea** | **TID** | **Descripción de la tarea** | **Detalle** | **Horas estimadas** | **Autor** | **Estado** |
+|--------|-----------|---------|-----------------------------|-------------|---------------------|------------------------------------------|------------|
+| 21     | Añadir medicamentos vía API REST | TS07 | Permitir registrar medicamentos de un paciente. | Crear endpoint POST para agregar medicamentos y validar datos. | 7 | Eduardo Sihuar Ccotarma Ttito | Done |
+| 22     | Obtener estadísticas biológicas vía API REST | TS08 | Recuperar datos biológicos del paciente. | Implementar endpoint GET para devolver estadísticas biológicas. | 5 | Diego Vicente Seminario Castillo | Done |
+| 23     | Obtener estado de ánimo vía API REST | TS09 | Consultar estados de ánimo del paciente. | Crear endpoint GET para listar registros de estado de ánimo. | 6 | Yair Christofer Aru Acevedo | Done |
+| 24     | Obtener consumo de medicamentos vía API REST | TS10 | Consultar consumo de medicamentos. | Endpoint GET para listar medicamentos consumidos y su frecuencia. | 4 | Ario Joel Chavez Uribe | Done |
+| 25     | Actualizar apuntes terapéuticos vía API REST | TS12 | Modificar apuntes de sesión terapéutica. | Endpoint PUT/PATCH para editar notas de la sesión. | 8 | Jhomar Cristián Elias Astuyauri Herencia | Done |
+| 26     | Añadir apuntes terapéuticos vía API REST | TS13 | Registrar nuevos apuntes de sesión. | Endpoint POST para guardar nuevas notas de la sesión. | 5 | Joel Prudencio Alcantara | Done |
+| 27     | Obtener recordatorios vía API REST | TS16 | Consultar recordatorios de actividades. | Endpoint GET para listar próximos recordatorios del paciente. | 6 | Eduardo Sihuar Ccotarma Ttito | Done |
+| 28     | Notificaciones de cambios vía API REST | TS18 | Recibir notificaciones de cambios del terapeuta. | Endpoint GET para obtener notificaciones recientes. | 4 | Diego Vicente Seminario Castillo | Done |
+| 29     | Confirmar consumo de pastillas vía API REST | TS20 | Registrar confirmación de toma de pastillas. | Endpoint POST para guardar confirmación de consumo. | 7 | Yair Christofer Aru Acevedo | Done |
+| 30     | Registrar funciones biológicas vía API REST | TS21 | Guardar datos biológicos del paciente. | Endpoint POST para registrar funciones como sueño y apetito. | 5 | Ario Joel Chavez Uribe | Done |
+| 33     | Revisar actualizaciones de terapia | US27 | Ver historial de cambios en la terapia. | Implementar vista para mostrar cambios previos en el tratamiento. | 6 | Jhomar Cristián Elias Astuyauri Herencia | Done |
+| 34     | Notificación de nuevos mensajes | US31 | Avisar al paciente de mensajes nuevos. | Implementar sistema de notificaciones en frontend y backend. | 8 | Joel Prudencio Alcantara | Done |
+| 35     | Acceso a nuevas instrucciones | US32 | Consultar nuevas instrucciones del terapeuta. | Vista para mostrar instrucciones recientes y cambios. | 4 | Eduardo Sihuar Ccotarma Ttito | Done |
+| 40     | Actualizar información del paciente | US17 | Editar datos personales del paciente. | Formulario y endpoint para actualizar información básica. | 7 | Diego Vicente Seminario Castillo | Done |
+| 41     | Visualizar progreso del tratamiento | US21 | Mostrar avance del paciente en la terapia. | Implementar dashboard con gráficos de progreso. | 5 | Yair Christofer Aru Acevedo | Done |
+| 51     | Actualizar consumo de pastillas vía API REST | TS11 | Modificar registro de consumo de pastillas. | Endpoint PUT/PATCH para actualizar datos de consumo. | 6 | Ario Joel Chavez Uribe | Done |
+| 52     | Actualizar diagnóstico vía API REST | TS14 | Modificar diagnóstico del paciente. | Endpoint PUT/PATCH para editar diagnóstico existente. | 8 | Jhomar Cristián Elias Astuyauri Herencia | Done |
+| 54     | Obtener datos del dashboard vía API REST | TS17 | Consultar datos resumidos del paciente. | Endpoint GET para devolver información del dashboard. | 7 | Joel Prudencio Alcantara | Done |
+| 55     | Registrar estado de ánimo vía API REST | TS19 | Guardar nuevo registro de estado de ánimo. | Endpoint POST para añadir estado de ánimo del paciente. | 4 | Eduardo Sihuar Ccotarma Ttito | Done |
+| 56     | Actualizar acceso del paciente vía API REST | TS22 | Modificar credenciales del paciente. | Endpoint PUT/PATCH para actualizar email y contraseña. | 5 | Diego Vicente Seminario Castillo | Done |
+| 57     | Actualizar datos del profesional vía API REST | TS23 | Modificar información del profesional. | Endpoint PUT/PATCH para actualizar datos personales y contacto. | 6 | Yair Christofer Aru Acevedo | Done |
+| 58     | Añadir paciente vía API REST | TS01 | Registrar nuevo paciente en el sistema. | Endpoint POST para crear paciente y validar datos. | 8 | Ario Joel Chavez Uribe | Done |
+| 59     | Añadir profesional vía API REST | TS02 | Registrar nuevo profesional de salud mental. | Endpoint POST para crear profesional y validar datos. | 7 | Jhomar Cristián Elias Astuyauri Herencia | Done |
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+A continuación, se muestran los commits realizados en el repositorio para el Frontend, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+Repositorio del Frontend en GitHub: <a href="https://github.com/1ASI0729-2510-4317-G2-OpenGG/backend_psymed">Enlace_Repositorio</a>
+
+
+| **Repository** | **Branch** | **Commit ID** | **Author** | **Time ago** |
+|----------------|------------|---------------|------------|--------------|
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+En el sprint 3 se logró un avance en la implementación y despliegue 
+del back-end. Se desarrollaron varias secciones clave donde el usuario 
+puede guardar y registrar sus datos. A continuación, se presentan algunas evidencias:
+
+
+
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Durante el **Sprint 3**, el enfoque principal se centró en el desarrollo 
+del **Backend** de la aplicación. En este ciclo se implementaron:
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+Durante el desarrollo de este Sprint, se logró desarrollar exitosamente el Back-end de PsyMed. 
+Esto permitirá que los posibles usuarios guarden sus datos de manera satisfactoria y lograr 
+su atención.
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+En esta parte, se mostrará la participación de los integrantes del grupo para la elaboración de este sprint 2:
+
+Report:
+
+
+Bakend:
+
+
+
 
 # Conclusiones
 
@@ -574,6 +761,9 @@ La primera entrega del proyecto Psymed ha permitido establecer una base sólida 
 
 **TP1:**
 En esta segunda entrega, se logró implementar una mejora continua basada en las observaciones y aprendizajes obtenidos durante la primera entrega. A partir de dichas consideraciones, se diseñó y ejecutó el Sprint 2, lo cual permitió avanzar en la creación y diseño de la primera versión del frontend. Asimismo, se completó exitosamente el deploy tanto del frontend como de la API mediante json-server, lo que permitió validar la funcionalidad y la comunicación entre los componentes sin depender de un backend completo. Este enfoque ágil contribuyó a una evolución efectiva del proyecto, manteniendo la calidad y la eficiencia en cada etapa del desarrollo.
+
+**TB2**
+En esta tercera etapa del proyecto, se avanzó significativamente en la implementación de los bounded contexts identificados, logrando una mayor claridad en las funcionalidades y los requerimientos de cada sección. Se implementaron los servicios correspondientes y se desarrolló una documentación detallada, facilitando la integración y el despliegue tanto de la API como del frontend. Además, se realizó una revisión exhaustiva de los procesos y resultados obtenidos, identificando oportunidades de mejora y ajustes necesarios para la siguiente fase del proyecto.
 
 # Bibliografía
 Contributors, M. o. J. T. A. B. (s.f.). Bootstrap. https://getbootstrap.com/
