@@ -1181,6 +1181,119 @@ Bakend:
 
 
 
+#### 5.3. Validation Interviews.
+
+#### 5.3.1. Diseño de Entrevistas.
+
+Para validar la aplicación y recopilar feedback de los usuarios, se diseñaron entrevistas estructuradas para profesionales de la salud mental y pacientes. Estas entrevistas se centraron en aspectos clave de la aplicación, como la usabilidad, funcionalidades más utilizadas, dificultades encontradas, sugerencias de mejora y percepción de la seguridad de la información. A continuación, se presentan las preguntas diseñadas para cada grupo de usuarios:
+
+#### Preguntas para Profesionales de la Salud Mental
+
+#### Preguntas Objetivas:
+
+- ¿Qué funcionalidades usas más en la aplicación? ¿Cuáles usas menos o te resultan innecesarias?
+- ¿Hay alguna funcionalidad que hayas intentado usar pero encontraste difícil o confusa?
+- ¿Te resulta fácil acceder y gestionar la información de tus pacientes desde la app? Si no, ¿qué aspecto mejorarías?
+- ¿Cuánto tiempo promedio te toma completar una consulta o registro dentro de la app? ¿Crees que puede reducirse?
+- ¿Consideras que el sistema de seguridad y privacidad de la app cumple con tus necesidades? ¿Qué mejorarías en este aspecto?
+
+#### Preguntas Subjetivas:
+
+- ¿Qué añadirías o mejorarías en el sistema de seguimiento y gestión de pacientes?
+- ¿Qué tan intuitivo es el flujo de trabajo en la app? ¿Qué aspectos consideras que podrían simplificarse?
+- ¿Hay alguna funcionalidad adicional que creas importante para facilitar tu labor con los pacientes?
+- ¿Qué tan útil sería para ti un sistema de recordatorios o notificaciones automáticas? ¿Qué tipo de recordatorios preferirías recibir?
+- ¿Qué cambiarías en la interfaz de usuario para hacer la experiencia más agradable o eficiente?
+
+
+#### Preguntas para Pacientes
+
+#### Preguntas Objetivas:
+
+- ¿Qué sección de la app usas más (ejemplo: citas, mensajes, notas de sesión)?
+- ¿Cuán fácil te resulta acceder a la información que necesitas, como horarios de citas o notas de las sesiones?
+- ¿Consideras que la aplicación facilita tus interacciones con el profesional? Si no, ¿qué mejorarías?
+- ¿Has experimentado dificultades técnicas al usar la app? Si es así, ¿cuáles?
+- ¿Sientes que tu información personal está segura en la aplicación? ¿Qué te haría sentir aún más seguro?
+
+#### Preguntas Subjetivas:
+
+- ¿Qué funciones te gustaría agregar a la app para mejorar tu experiencia?
+- ¿Te gustaría recibir notificaciones para recordarte citas o tareas asignadas en sesión? ¿De qué tipo?
+- ¿Qué tan intuitiva y fácil de usar te parece la interfaz? ¿Qué parte cambiarías para mejorarla?
+- ¿Cómo te gustaría que evolucionara la app para mejorar la comunicación con tu profesional?
+- ¿Qué aspecto de la app consideras que más contribuye a tu comodidad o progreso en las sesiones? ¿Cómo podría potenciarse aún más?
+
+### 5.3.2. Registro de Entrevistas
+
+#### Profesionales de la salud mental
+
+##### Entrevista 1:
+Link de la entrevista: [Entrevista_Profesional](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/ERGp0Ai5ZMRFlpUcfrWwCGYB1EeXNHUAg2ImyzBqh9L8Mw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QjrgIO)  
+
+##### Entrevista 2:
+Link de la entrevista: [Entrevista_Profesional]()  
+
+#### Pacientes
+
+##### Entrevista 1:
+Link de la entrevista: [Entrevista_Pacientes](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/Eb4wtMKTMwNGqp0YBA73q34BD8nYz-5JtB67Bfxid3Kpjg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wjy7fH)  
+
+##### Entrevista 2:
+Link de la entrevista: [Entrevista_Pacientes](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/EXSyDfx3CORGlz7GzpKo5XUBjjrPFpya48laDxJ9MXR0NQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eLtFGQ)  
+
+---
+
+### 5.3.3. Evaluaciones según heurísticas
+
+Evaluación de la aplicación de salud mental utilizando heurísticas de usabilidad de Jakob Nielsen. Para cada heurística se incluyen observaciones específicas y sugerencias de mejora.
+
+---
+
+**1. Visibilidad del estado del sistema**
+
+- **Descripción:** La aplicación debe mantener al usuario informado sobre el estado de cada acción realizada.  
+- **Observaciones:** La aplicación muestra un indicador de carga al guardar registros de pacientes, pero no siempre se muestra al agendar citas.  
+- **Sugerencias de mejora:** Añadir indicadores de progreso en todos los procesos, especialmente al agendar y guardar información.
+
+---
+
+**2. Facilidad y practicidad**
+
+- **Descripción:** Los profesionales pueden filtrar características de pacientes.  
+- **Observaciones:** Algunos botones de navegación no están ubicados en la aplicación.  
+- **Sugerencias de mejora:** Añadir y alinear con el diseño de la aplicación manteniendo su practicidad.
+
+---
+
+**3. Flexibilidad y eficiencia de uso**
+
+- **Descripción:** La app debe permitir accesos rápidos y opciones para usuarios expertos.  
+- **Observaciones:** No hay atajos de teclado ni plantillas para notas.  
+- **Sugerencias de mejora:** Agregar atajos y plantillas predefinidas para mejorar el flujo.
+
+---
+
+**4. Estética y diseño minimalista**
+
+- **Descripción:** Falta de estilos minimalistas para la aplicación.  
+- **Observaciones:** La pantalla de inicio presenta pocos elementos agradables.  
+- **Sugerencias de mejora:** Agregar o mejorar el diseño de la aplicación.
+
+---
+
+**5. Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores**
+
+- **Descripción:** Ofrecer mensajes claros y comprensibles cuando ocurre un error.  
+- **Observaciones:** Los mensajes de error son técnicos y poco útiles.  
+- **Sugerencias de mejora:** Redactar mensajes en lenguaje sencillo con posibles soluciones.
+
+---
+
+
+## 5.4. Video About-the-Product
+
+![The Product](enlace)
 
 
 # Conclusiones
