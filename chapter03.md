@@ -88,8 +88,9 @@
 **Impact mapping del segmento objetivo: profesional de salud mental**
 
 <p align="center">
-  <img src="assets/chapter03/profesional de salud mental_IM.jpeg"  style="width:800px; height:auto;">
+  <img src="assets/chapter03/psicologo_IM.jpeg"  style="width:800px; height:auto;">
 </p>
+
 
 **Impact mapping del segmento objetivo: Pacientes**
 <p align="center">
@@ -162,3 +163,7 @@
 | 61    | US11                            | Inicio de Sesión con Autenticación de Dos Factores                                                  | **Como** usuario de la aplicación, **quiero** que el inicio de sesión incluya una autenticación de dos factores **para** garantizar la seguridad de mi cuenta.                                                                                                                           | 8                                  |
 | 62    | US16                            | Registro Completo de Información Médica                                                             | **Como** profesional de salud mental, **quiero** registrar toda la información médica relevante de mis pacientes **para** tener un historial completo para su tratamiento.                                                                                                                                 | 8                                  |
 | 63    | US22                            | Notificación de Desviaciones en el Tratamiento                                                      | **Como** profesional de salud mental, **quiero** recibir notificaciones si el paciente no sigue el tratamiento adecuadamente **para** intervenir si es necesario.                                                                                                                                          | 8                                  |
+
+<p align="center">
+  <img src="assets/chapter03/TrelloBacklog.png"  style="width:800px; height:auto;">
+</p>

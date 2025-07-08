@@ -1290,7 +1290,7 @@ Evaluación de la aplicación de salud mental utilizando heurísticas de usabili
 
 ## 5.4. Video About-the-Product
 
-![The Product]([enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320052_upc_edu_pe/EfHfLCBP9CFJp-ZX2GEpPtoBCUx_KM3_WjwFesjaK5x3Xw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VWAode))
+![enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320052_upc_edu_pe/EfHfLCBP9CFJp-ZX2GEpPtoBCUx_KM3_WjwFesjaK5x3Xw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VWAode)
 
 
 # Conclusiones
