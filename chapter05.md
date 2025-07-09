@@ -402,7 +402,7 @@ Landing Page:
     </tr>
        <tr align="left">
         <td>
-            <b>Sprint n - 4</b>
+            <b>Sprint n - 2</b>
             <b>Review Summary</b>
         </td>
         <td>
@@ -441,7 +441,7 @@ Landing Page:
   </tr>
 </table>
 
-#### 5.2.4.2. Aspect Leaders and Collaborators.
+#### 5.2.2.2. Aspect Leaders and Collaborators.
 | Username (GitHub)             | Nombre                                   |
 |-------------------------------|------------------------------------------|
 | Eduardo Sihuar Ccotarma Ttito | Eduardo Sihuar Ccotarma Ttito            |
@@ -451,7 +451,7 @@ Landing Page:
 | Jhomar Cristián Elias         | Jhomar Cristián Elias Astuyauri Herencia |
 | joel5871                      | Joel Prudencio Alcantara                 |
 
-#### 5.2.4.3. Sprint Backlog 2
+#### 5.2.2.3. Sprint Backlog 2
 
 | **US** | **Tarea**                                               | **TID** | **Descripción de la tarea**                                              | **Detalle**                                                                 | **Horas estimadas** | **Autor**       | **Estado** |
 |--------|---------------------------------------------------------|---------|--------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------|-----------------|------------|
@@ -545,30 +545,26 @@ Luego, ingresamos a la sección Deploys.
 
 <img src="./assets/depfront-2.PNG" alt="deploy 2">
 
-Después, En proyect configuración, llamamos a la aplicación para su visualización.
+Después, En proyect configuración, llamamos a la aplicación para su visualización y se despliega.
 
 <img src="./assets/depfront-3.PNG" alt="deploy 3">
-
-Finalmente, cargamos el proyecto y vemos el resultado
-
-<img src="./assets/depfront-4.PNG" alt="deploy 4">
-
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 En esta parte, se mostrará la participación de los integrantes del grupo para la elaboración de este sprint 2:
 
 Report:
+
 <img src="./assets/collabfront-1.png" alt="report front 1">
 
 Frontend:
 
 <img src="./assets/collabfront-2.png" alt="deploy front 1">
 
-
-
 ### 5.2.3. Sprint 3
+
 #### 5.2.3.1. Sprint Planning 3.
+
 En este sprint nos enfocaremos en la corrección de errores detectados en el frontend y en la mejora de la usabilidad general de la aplicación
 
 <table align="center"  border="1" width="90%" style="text-align:center;">
@@ -867,14 +863,14 @@ Para el desarrollo de este último sprint, el equipo corrige los errores restant
 </table>
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
-| Username (GitHub)             | Nombre                                   |
-|-------------------------------|------------------------------------------|
-| Eduardo Sihuar Ccotarma Ttito | Eduardo Sihuar Ccotarma Ttito            |
-| DiegoSeminario                | Diego Vicente Seminario Castillo         |
-| Yair360                       | Yair Christofer Aru Acevedo              |
-| feg06                         | Ario Joel Chavez Uribe                   |
-| Jhomar Cristián Elias         | Jhomar Cristián Elias Astuyauri Herencia |
-| joel5871                      | Joel Prudencio Alcantara                 |
+| Username (GitHub) | Nombre                                   |
+|-------------------|------------------------------------------|
+| Anx0123           | Eduardo Sihuar Ccotarma Ttito            |
+| DiegoSeminario    | Diego Vicente Seminario Castillo         |
+| Yair360           | Yair Christofer Aru Acevedo              |
+| feg06             | Ario Joel Chavez Uribe                   |
+| Jhomar1158-ux     | Jhomar Cristián Elias Astuyauri Herencia |
+| joel5871          | Joel Prudencio Alcantara                 |
 
 #### 5.2.4.3. Sprint Backlog 4
 
@@ -887,6 +883,8 @@ Para el desarrollo de este último sprint, el equipo corrige los errores restant
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
+
+<img src="./assets/chapter05/collaboration-sprint4.png" alt="Collaboration in sprint 4">
 
 #### 5.3. Validation Interviews.
 
