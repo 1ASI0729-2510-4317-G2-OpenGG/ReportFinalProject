@@ -539,15 +539,15 @@ Durante el desarrollo de este Sprint, se logró desplegar exitosamente el Fronte
 
 Primero, ingresamos a la configuración de Netlify y seleccionamos la de nuestro Frontend.
 
-<img src="./assets/depfront-1.PNG" alt="deploy 1">
+<img src="./assets/chapter05/depfront-1.png" alt="deploy 1">
 
 Luego, ingresamos a la sección Deploys.
 
-<img src="./assets/depfront-2.PNG" alt="deploy 2">
+<img src="./assets/chapter05/depfront-2.png" alt="deploy 2">
 
 Después, En proyect configuración, llamamos a la aplicación para su visualización y se despliega.
 
-<img src="./assets/depfront-3.PNG" alt="deploy 3">
+<img src="./assets/chapter05/depfront-3.png" alt="deploy 3">
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -879,6 +879,16 @@ Para el desarrollo de este último sprint, el equipo corrige los errores restant
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Para el uso de datos en el frontend se utiliza la API del backend desarrollado y desplegado.
+
+<img src="./assets/chapter05/backend1.png" alt="Backend 1">
+
+<img src="./assets/chapter05/backend2.png" alt="Backend 2">
+
+<img src="./assets/chapter05/backend3.png" alt="Backend 3">
+
+<img src="./assets/chapter05/backend4.png" alt="Backend 4">
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
