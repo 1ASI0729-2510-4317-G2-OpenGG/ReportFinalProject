@@ -88,13 +88,12 @@
 **Impact mapping del segmento objetivo: profesional de salud mental**
 
 <p align="center">
-  <img src="assets/chapter03/psicologo_IM.jpeg"  style="width:800px; height:auto;">
+  <img src="assets/chapter03/psicologo_IM.png"  style="width:800px; height:auto;">
 </p>
-
 
 **Impact mapping del segmento objetivo: Pacientes**
 <p align="center">
-  <img src="assets/chapter03/enfermo_IM.jpeg"  style="width:800px; height:auto;">
+  <img src="assets/chapter03/enfermo_IM.png"  style="width:800px; height:auto;">
 </p>
 
 ## 3.4. Product Backlog

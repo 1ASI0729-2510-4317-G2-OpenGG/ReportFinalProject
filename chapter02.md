@@ -344,7 +344,7 @@ Las fichas de User Persona que presentaremos a continuación reflejan estas nece
 **Segmento Objetivo: Paciente**
 ![So-Patient.png](assets/So-patient.png)
 
-## User Task Matrix
+### 2.3.2 User Task Matrix
 En esta sección se presenta el **User Task Matrix**, que concentra las tareas que los User Persona (que representan a cada segmento) realizan para cumplir sus objetivos. No se deben confundir tareas (tasks) con opciones o características de software, pues las tareas deben ser realizadas por los segmentos independientemente de la existencia de la solución de software.
 
 | Tareas                                                | Médicos de la salud mental/ Importancia | Médicos de la salud mental/ Frecuencia | Pacientes/ Importancia                 | Pacientes/ Frecuencia                  |
@@ -362,7 +362,7 @@ En esta sección se presenta el **User Task Matrix**, que concentra las tareas q
 | Acceso a sus propios registros clínicos               | -                                      | -                                      | Media                                  | A veces                                |
 | Participación en encuestas de seguimiento de salud    | -                                      | -                                      | Media                                  | Nunca                                  |
 
-### Análisis de la Matriz
+#### Análisis de la Matriz
 
 En la matriz presentada, se pueden observar las siguientes tareas con mayor frecuencia e importancia:
 
@@ -376,7 +376,7 @@ En la matriz presentada, se pueden observar las siguientes tareas con mayor frec
 
 Las coincidencias entre los segmentos destacan la importancia de una solución integrada que facilite la gestión tanto para médicos como para pacientes. Las principales diferencias se reflejan en la naturaleza de las tareas, donde los médicos tienen un enfoque más administrativo y clínico, mientras que los pacientes se centran en la gestión personal de su atención médica.
 
-## User Journey Mapping
+### 2.3.3. User Journey Mapping
 
 El User Journey Mapping se desarrolló para comprender la experiencia de los usuarios al interactuar con nuestra plataforma. Este mapeo detalla cada paso que el usuario realiza, los obstáculos que puede encontrar, y las emociones que surgen en el proceso. Así, nos ayuda a identificar oportunidades para mejorar la usabilidad y satisfacción del usuario.
 
@@ -385,7 +385,7 @@ El User Journey Mapping se desarrolló para comprender la experiencia de los usu
 ### Segmento 2: Paciente
 ![UJM Patient](assets/UJMPaciente.png)
 
-## 2.3.4. Emphaty Mapping
+## 2.3.4. Empathy Mapping
 
 Para desarrollar el Empathy Map, hemos basado nuestra información en los datos recopilados de nuestros dos User Personas, quienes representan a nuestro público objetivo. Este mapa nos ofrece una visión más profunda de las necesidades, pensamientos, emociones y acciones de los usuarios, lo que nos permite crear soluciones más ajustadas a sus expectativas y vivencias reales.
 

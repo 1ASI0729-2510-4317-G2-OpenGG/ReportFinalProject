@@ -43,7 +43,7 @@ Complementario al color principal, este verde más claro añade equilibrio visua
 #### Achromatic Colors
 
 **#F5F7FA (Blanco Niebla – Fondo):**  
-Un gris muy claro que funciona como fondo base para toda la interfaz. Birndando limpieza y neutralidad, permitiendo que los colores cromáticos resalten sin provocar fatiga visual.
+Un gris muy claro que funciona como fondo base para toda la interfaz. Brindando limpieza y neutralidad, permitiendo que los colores cromáticos resalten sin provocar fatiga visual.
 
 <p align="center">
   <img src="assets/chapter04/colors/F5F7FA.png"  style="width:500px; height:auto;">
