@@ -911,21 +911,21 @@ Para el sprint 4, el equipo realizó el sprint planning meeting para la distribu
 
 #### 5.2.4.3. Sprint Backlog 4
 
-| TU  | Tarea                                      | TID   | Descripción de la tarea                                     | Detalle                                                                 | Horas estimadas | Autor                                         | Estado        |
-|-----|--------------------------------------------|-------|--------------------------------------------------------------|-------------------------------------------------------------------------|------------------|-----------------------------------------------|----------------|
-| TU18  | Añadir paciente vía API REST               | TS01A | Crear endpoint POST para pacientes                          | Implementar lógica de registro, validación y respuesta.                 | 5                | Yair Christofer Aru Acevedo                   | Done           |
-|     |                                            | TS01B | Manejo de errores y validación duplicados                   | Validar información repetida y retornar status 400 con mensaje claro.   | 3                | Yair Christofer Aru Acevedo                   | Done           |
-| TU19  | Añadir profesional vía API REST            | TS02A | Crear endpoint POST para profesionales                      | Registrar profesionales con especialidad y validaciones.                | 5                | Diego Vicente Seminario Castillo              | Done           |
-|     |                                            | TS02B | Validar datos y manejar errores                             | Verificar la información duplicada y campos requeridos                 | 3                | Diego Vicente Seminario Castillo              | Done           |
-| TU20  | Implementar inicio de sesión vía API       | TS05A | Crear endpoint POST /login                                  | Validar credenciales y generar token JWT                               | 4                | Eduardo Sihuar Ccotarma Ttito                 | Done           |
-|     |                                            | TS05B | Gestión de errores por credenciales incorrectas             | Retornar 401 con mensaje si usuario/clave no coinciden                 | 2                | Eduardo Sihuar Ccotarma Ttito                 | Done           |
-| TU21  | Añadir medicamentos vía API REST           | TS07A | Crear endpoint POST para medicamentos                       | Registrar medicamentos con campos válidos y estructura correcta        | 5                | Eduardo Sihuar Ccotarma Ttito                 | Done           |
-|     |                                            | TS07B | Validar campos y retorno de errores                         | Manejo de errores por datos faltantes o inválidos                      | 2                | Eduardo Sihuar Ccotarma Ttito                 | Done           |
-| TU22  | Añadir apuntes de sesión terapéutica       | TS13  | Registrar apuntes en una sesión existente                   | Crear endpoint POST para apuntes asociados a una sesión                | 5                | Ario Joel Chavez Uribe                       | In Progress     |
-| TU23  | Crear diagnóstico clínico del paciente     | TS15  | Crear diagnóstico inicial de un paciente                    | Crear endpoint POST con validaciones de campos requeridos              | 6                | Ario Joel Chavez Uribe                       | To Do          |
-| TU24  | Registrar nueva sesión terapéutica         | TS24A | Crear endpoint POST para sesiones                           | Registrar sesión con ID de paciente y profesional                      | 4                | Jhomar Cristián Elias Astuyauri Herencia     | In Progress     |
-|     |                                            | TS24B | Validación de datos y manejo de errores                     | Validar campos y retornar respuesta 201 o error según caso             | 2                | Jhomar Cristián Elias Astuyauri Herencia     | In Progress     |
-| TU25  | Obtener sesión terapéutica existente       | TS25  | Recuperar detalles de una sesión registrada                 | Crear endpoint GET con estructura y validación por ID                  | 4                | Jhomar Cristián Elias Astuyauri Herencia     | Done           |
+| TU   | Tarea                                       | TID   | Descripción de la tarea                                     | Detalle                                                                 | Horas estimadas | Autor                                         | Estado        |
+|------|---------------------------------------------|-------|--------------------------------------------------------------|-------------------------------------------------------------------------|------------------|-----------------------------------------------|----------------|
+| TU18 | Añadir paciente vía API REST                | TS01A | Crear endpoint POST para pacientes                          | Implementar lógica de registro, validación y respuesta.                 | 5                | Yair Christofer Aru Acevedo                   | Done           |
+|      |                                             | TS01B | Manejo de errores y validación duplicados                   | Validar información repetida y retornar status 400 con mensaje claro.   | 3                | Yair Christofer Aru Acevedo                   | Done           |
+| TU19 | Añadir profesional vía API REST             | TS02A | Crear endpoint POST para profesionales                      | Registrar profesionales con especialidad y validaciones.                | 5                | Diego Vicente Seminario Castillo              | Done           |
+|      |                                             | TS02B | Validar datos y manejar errores                             | Verificar la información duplicada y campos requeridos                 | 3                | Diego Vicente Seminario Castillo              | Done           |
+| TU20 | Implementar inicio de sesión vía API        | TS05A | Crear endpoint POST /login                                  | Validar credenciales y generar token JWT                               | 4                | Eduardo Sihuar Ccotarma Ttito                 | Done           |
+|      |                                             | TS05B | Gestión de errores por credenciales incorrectas             | Retornar 401 con mensaje si usuario/clave no coinciden                 | 2                | Eduardo Sihuar Ccotarma Ttito                 | Done           |
+| TU21 | Añadir medicamentos vía API REST            | TS07A | Crear endpoint POST para medicamentos                       | Registrar medicamentos con campos válidos y estructura correcta        | 5                | Eduardo Sihuar Ccotarma Ttito                 | Done           |
+|      |                                             | TS07B | Validar campos y retorno de errores                         | Manejo de errores por datos faltantes o inválidos                      | 2                | Eduardo Sihuar Ccotarma Ttito                 | Done           |
+| TU22 | Añadir apuntes de sesión terapéutica        | TS13  | Registrar apuntes en una sesión existente                   | Crear endpoint POST para apuntes asociados a una sesión                | 5                | Ario Joel Chavez Uribe                       | In Progress     |
+| TU23 | Crear diagnóstico clínico del paciente      | TS15  | Crear diagnóstico inicial de un paciente                    | Crear endpoint POST con validaciones de campos requeridos              | 6                | Ario Joel Chavez Uribe                       | To Do          |
+| TU24 | Registrar nueva sesión terapéutica          | TS24A | Crear endpoint POST para sesiones                           | Registrar sesión con ID de paciente y profesional                      | 4                | Jhomar Cristián Elias Astuyauri Herencia     | In Progress     |
+|      |                                             | TS24B | Validación de datos y manejo de errores                     | Validar campos y retornar respuesta 201 o error según caso             | 2                | Jhomar Cristián Elias Astuyauri Herencia     | In Progress     |
+| TU25 | Obtener sesión terapéutica existente        | TS25  | Recuperar detalles de una sesión registrada                 | Crear endpoint GET con estructura y validación por ID                  | 4                | Jhomar Cristián Elias Astuyauri Herencia     | Done           |
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
@@ -941,7 +941,9 @@ Para el sprint 4, el equipo realizó el sprint planning meeting para la distribu
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+El despliegue se realizó exitosamente y se puede visualizar su funcionamiento. Este se encuentra en el siguiente enlace: https://backendpsymed-production.up.railway.app/
 
+<img src="./assets/chapter05/exback1.png" alt="Execution Backend 1">
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -959,7 +961,17 @@ Para el uso de datos en el frontend se utiliza la API del backend desarrollado y
 
 Para el despliegue del backend se realizaron los siguientes pasos:
 
+<img src="./assets/chapter05/depback1.png" alt="Despliegue de backend 1">
 
+<img src="./assets/chapter05/depback2.png" alt="Despliegue de backend 2">
+
+<img src="./assets/chapter05/depback3.png" alt="Despliegue de backend 3">
+
+<img src="./assets/chapter05/depback4.png" alt="Despliegue de backend 4">
+
+<img src="./assets/chapter05/depback5.png" alt="Despliegue de backend 5">
+
+<img src="./assets/chapter05/depback6.png" alt="Despliegue de backend 6">
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
