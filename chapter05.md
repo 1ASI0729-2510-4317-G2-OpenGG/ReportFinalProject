@@ -911,6 +911,16 @@ Para el sprint 4, el equipo realizó el sprint planning meeting para la distribu
 
 #### 5.2.4.3. Sprint Backlog 4
 
+| US  | Tarea                                      | TID   | Descripción de la tarea                                     | Detalle                                                                 | Horas estimadas | Autor                             | Estado        |
+|-----|--------------------------------------------|-------|--------------------------------------------------------------|-------------------------------------------------------------------------|------------------|-----------------------------------|----------------|
+| 18  | Añadir paciente vía API REST               | TS01  | Permitir registrar pacientes en el sistema.                 | Crear endpoint POST para pacientes, validaciones y respuesta estructurada. | 8                | Yair Christofer Aru Acevedo               | Done           |
+| 19  | Añadir profesional vía API REST            | TS02  | Permitir registrar profesionales de salud mental.           | Implementar endpoint POST y retornar datos del profesional.               | 8                | Diego Vicente Seminario Castillo              | Done           |
+| 20  | Implementar inicio de sesión vía API       | TS05  | Permitir autenticación básica de usuarios.                  | Crear endpoint de login con validación de credenciales y retorno de JWT. | 6                | Eduardo Sihuar Ccotarma Ttito                | Done           |
+| 21  | Añadir medicamentos vía API REST           | TS07  | Permitir registrar medicamentos de un paciente.             | Crear endpoint POST para agregar medicamentos y validar datos.         | 7                | Eduardo Sihuar Ccotarma Ttito     | Done           |
+| 22  | Añadir apuntes de sesión terapéutica       | TS13  | Registrar apuntes de una sesión realizada.                  | Implementar endpoint POST para agregar notas a una sesión existente.   | 5                | Ario Joel Chavez Uribe          | In Progress     |
+| 23  | Crear diagnóstico clínico del paciente     | TS15  | Registrar diagnóstico inicial del paciente.                 | Crear endpoint POST con validaciones y respuesta adecuada.             | 6                | Ario Joel Chavez Uribe         | To Do          |
+| 24  | Registrar nueva sesión terapéutica         | TS24  | Permitir guardar una nueva sesión con paciente y profesional. | Crear endpoint POST con fecha, duración, IDs relacionados.             | 6                | Jhomar Cristián Elias Astuyauri Herencia        | In Progress     |
+| 25  | Obtener sesión terapéutica existente       | TS25  | Recuperar detalles de una sesión previamente registrada.    | Crear endpoint GET por ID con datos de la sesión.                      | 4                | Jhomar Cristián Elias Astuyauri Herencia      | Done           |
 
 
 #### 5.2.4.4. Development Evidence for Sprint Review
