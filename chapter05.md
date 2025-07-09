@@ -1001,6 +1001,20 @@ Para validar la aplicación y recopilar feedback de los usuarios, se diseñaron 
 ##### Entrevista 1:
 Link de la entrevista: [Entrevista_Profesional](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/ERGp0Ai5ZMRFlpUcfrWwCGYB1EeXNHUAg2ImyzBqh9L8Mw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QjrgIO)  
 
+- **Entrevistada:** Sara Silva  
+- **Inicio de la entrevista (preguntas):** 00:00:23
+
+#### Resumen:
+
+Sara Silva comentó que las funcionalidades que más utiliza en la aplicación son las pestañas de pacientes, historias clínicas y citas, ya que le permiten visualizar fácilmente los registros y las citas pendientes, lo cual considera muy útil. Por otro lado, mencionó que la pestaña de configuración es la que menos usa, ya que solo se requiere al inicio y no resulta tan necesaria durante el uso continuo.
+
+No ha tenido dificultades para utilizar el sistema; al contrario, considera que es interactivo, visualmente claro y fácil de navegar. Respecto al acceso y gestión de la información, señaló que el proceso es sencillo, pero sugiere la incorporación de plantillas de llenado para facilitar y agilizar el registro de datos. Indicó que completar una consulta puede tomarle entre 15 y 20 minutos, tiempo que podría reducirse si se implementaran dichas plantillas.
+
+En cuanto a la seguridad y privacidad, observó que no ha visto un apartado específico en la aplicación para proteger los datos sensibles. Por ello, propone agregar algún tipo de código de ingreso vinculado a cada paciente, con el fin de evitar accesos no autorizados en caso de que otro usuario acceda al dispositivo con la sesión abierta.
+
+Sara también valoró el flujo de trabajo en la aplicación, describiéndolo como intuitivo. Como funcionalidad adicional, recomendó implementar un sistema de notificaciones que le recuerde sus citas pendientes, lo cual facilitaría su organización. Finalmente, sugirió mejorar la interfaz visual agregando más color, con el objetivo de hacer la experiencia más atractiva.
+
+
 ##### Entrevista 2:
 Link de la entrevista: [Entrevista_Profesional]()  
 
@@ -1009,8 +1023,37 @@ Link de la entrevista: [Entrevista_Profesional]()
 ##### Entrevista 1:
 Link de la entrevista: [Entrevista_Pacientes](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/Eb4wtMKTMwNGqp0YBA73q34BD8nYz-5JtB67Bfxid3Kpjg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wjy7fH)  
 
+- **Entrevistado:** Luigi Paccini Sánchez  
+- **Inicio de la entrevista (preguntas):**  00:00:13
+
+#### Resumen:
+
+El entrevistado comentó que la sección que más utiliza en la aplicación es la de gestión de citas, ya que le permite agendar desde casa sin tener que desplazarse al consultorio. Considera que acceder a la información es sencillo, gracias a su perfil personalizado, donde puede consultar fácilmente los horarios y datos relacionados a sus sesiones.
+
+Mencionó que la aplicación facilita mucho su interacción con el profesional de salud mental, ya que recibe respuestas rápidas a sus mensajes, lo que resuelve sus dudas de forma eficiente. No ha experimentado dificultades técnicas con la aplicación, y los únicos inconvenientes que ha enfrentado han estado relacionados con factores externos.
+
+En cuanto a la seguridad, mencionó que siente que su información está protegida, pero cree que se podría mejorar aún más con métodos de autenticación adicionales, similares a los que usan otras plataformas como Facebook. En cuanto a posibles mejoras, sugiere implementar un sistema que incentive o facilite respuestas más rápidas por parte de los profesionales.
+
+También le gustaría recibir notificaciones llamativas, similares a las de aplicaciones como Duolingo, para recordar citas o tareas, ya que podrían ser útiles para personas ocupadas o con menor atención en sus responsabilidades. Respecto a la evolución de la plataforma, propuso mejorar el aspecto visual de la aplicación, haciéndola más atractiva estéticamente.
+
+Finalmente, señaló que una funcionalidad que contribuiría aún más a su progreso sería contar con un registro completo de sus actividades o sesiones dentro de la app. En general, considera que la aplicación funciona bastante bien y cumple su propósito principal.
+
+
 ##### Entrevista 2:
 Link de la entrevista: [Entrevista_Pacientes](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/EXSyDfx3CORGlz7GzpKo5XUBjjrPFpya48laDxJ9MXR0NQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eLtFGQ)  
+
+- **Entrevistado:** Uriel Ortiz  
+- **Inicio de la entrevista (preguntas):** 00:00:15
+
+#### Resumen:
+
+Uriel Ortiz indicó que la sección de la aplicación que más utiliza es la de citas, ya que frecuentemente revisa si hay cambios en los horarios o realiza modificaciones que desea confirmar. Considera que acceder a la información es sencillo gracias a una interfaz clara, intuitiva y organizada visualmente por colores, lo que facilita la navegación.
+
+Señaló que la aplicación mejora notablemente su interacción con los profesionales, ya que centraliza toda la comunicación en un solo lugar. No ha tenido problemas técnicos con la plataforma, salvo por algunas interrupciones relacionadas al internet, que reconoce como factores externos. En cuanto a la seguridad, comentó que se siente cómodo con la protección actual de datos, pero que le haría sentir aún más seguro una autenticación en dos pasos.
+
+Uriel expresó interés en contar con un sistema de chat en tiempo real para hacer consultas pequeñas a su profesional sin abusar del recurso. También le gustaría recibir notificaciones, tanto en el celular como por correo (Gmail), como recordatorio de citas o tareas asignadas en sesión. Respecto a la interfaz, dijo que le parece lo suficientemente intuitiva y visualmente agradable, por lo que no cambiaría nada por el momento.
+
+Para futuras mejoras, propuso incluir una opción de videollamadas bajo solicitud como un posible paso adicional en la comunicación con su profesional. Finalmente, destacó que la gestión de citas, los recordatorios automáticos y la posibilidad de reprogramar fácilmente son las funcionalidades que más aportan a su comodidad y progreso dentro del proceso terapéutico.
 
 ---
 
