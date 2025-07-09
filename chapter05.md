@@ -874,9 +874,23 @@ Para el desarrollo de este último sprint, el equipo corrige los errores restant
 
 #### 5.2.4.3. Sprint Backlog 4
 
+
+
 #### 5.2.4.4. Development Evidence for Sprint Review
 
+| **Repository**  | **Branch**                           | **Commit ID**                            | **Author**      | **Time ago** |
+|-----------------|--------------------------------------|------------------------------------------|-----------------|--------------|
+| backend_psymed  | develop                              | e5f8bc8403ae120b48ebe7d188245f694c000f00 | Anx0123         | 1 days ago   |
+| backend_psymed  | feature/IAM                          | e5f8bc8403ae120b48ebe7d188245f694c000f00 | Anx0123         | 1 days ago   |
+| backend_psymed  | feature/profiles                     | 205f39de9311c007e3d4527f1670324c99bb1ce7 | Yair360         | 1 days ago   |
+| backend_psymed  | feature/patient                      | 205f39de9311c007e3d4527f1670324c99bb1ce7 | Yair360         | 14 days ago  |
+| backend_psymed  | feature/medic-and-patient            | 205f39de9311c007e3d4527f1670324c99bb1ce7 | DiegoSeminario  | 1 days ago   |
+| backend_psymed  | feature/medic-schedules-and-sections | 275d4f0af5607bde39b08fd0db37cbd2b19b5f72 | feg06           | 6 days ago   |
+| backend_psymed  | feature/document_Swagger             | f18cb97018d1e30d9402123ef414dabc6002d3c3 | Jhomar1158-ux   | 1 days ago   |
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
+
+
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -891,6 +905,10 @@ Para el uso de datos en el frontend se utiliza la API del backend desarrollado y
 <img src="./assets/chapter05/backend4.png" alt="Backend 4">
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue del backend se realizaron los siguientes pasos:
+
+
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
