@@ -989,7 +989,7 @@ Link de la entrevista: [Entrevista_Pacientes](https://upcedupe-my.sharepoint.com
 - **Entrevistado:** Luigi Paccini Sánchez  
 - **Inicio de la entrevista (preguntas):**  00:00:13
 
-## Resumen
+#### Resumen:
 
 El entrevistado comentó que la sección que más utiliza en la aplicación es la de gestión de citas, ya que le permite agendar desde casa sin tener que desplazarse al consultorio. Considera que acceder a la información es sencillo, gracias a su perfil personalizado, donde puede consultar fácilmente los horarios y datos relacionados a sus sesiones.
 
@@ -1008,7 +1008,7 @@ Link de la entrevista: [Entrevista_Pacientes](https://upcedupe-my.sharepoint.com
 - **Entrevistado:** Uriel Ortiz  
 - **Inicio de la entrevista (preguntas):** 00:00:15
 
-## Resumen
+#### Resumen:
 
 Uriel Ortiz indicó que la sección de la aplicación que más utiliza es la de citas, ya que frecuentemente revisa si hay cambios en los horarios o realiza modificaciones que desea confirmar. Considera que acceder a la información es sencillo gracias a una interfaz clara, intuitiva y organizada visualmente por colores, lo que facilita la navegación.
 
