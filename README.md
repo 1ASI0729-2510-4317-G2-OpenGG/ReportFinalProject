@@ -10,8 +10,8 @@
 
 ### STARTUP: OpenGG
 ### PRODUCTO: PSYMED
-### SECCION: 4317
-### PROFERSOR: Alberto Wilmer Sanchez Seña
+### NRC: 4317
+### PROFERSOR: Sanchez Seña, Alberto Wilmer
 ### INTEGRANTES:
 
 <table>
@@ -73,11 +73,24 @@
             de nuesta aplicación</th>
         </tr>
         <tr>
-          <th>V2.5</th>
+          <th>V3</th>
             <th>09.05.25</th>
             <th>G2 OpenGG</th>
-            <th>Se corrigieron los errores presentados en los capitulos
-                I, II, III, IV y V.</th>
+        <th>Se Avanzo el frontend y la Landing page
+        </tr>
+        </tr>
+        <tr>
+          <th>V3.5</th>
+            <th>16.06.25</th>
+            <th>G2 OpenGG</th>
+            <th>Se avanzo ell backend y se realizaron las correciones de la landing
+        </tr>
+        <tr>
+          <th>V4</th>
+            <th>09.05.25</th>
+            <th>G2 OpenGG</th>
+            <th>Se Desplego el front end y el backend
+            .</th>
         </tr>
     </thead>
     <tbody></tbody>
@@ -87,7 +100,16 @@
 
 Para el desarrollo del proyecto, utilizamos la herramienta de Github para la organizacion de las actividades realizadas. El URL del repositorio es el siguiente: 
 
-Github: https://github.com/orgs/1ASI0729-2510-4317-G2-OpenGG/repositories
+*Github del grupo:* https://github.com/orgs/1ASI0729-2510-4317-G2-OpenGG/repositories
+
+*Reporte:*   https://github.com/1ASI0729-2510-4317-G2-OpenGG/ReportFinalProject
+
+*Landing Page:*  https://github.com/1ASI0729-2510-4317-G2-OpenGG/Landing-Page
+
+*Backend:*  https://github.com/1ASI0729-2510-4317-G2-OpenGG/backend_psymed
+
+*frontend:* https://github.com/1ASI0729-2510-4317-G2-OpenGG/OPGG-Frontend-Psymed
+
 
 # Contenido
 ## Tabla de Contenidos
