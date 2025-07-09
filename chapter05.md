@@ -137,6 +137,8 @@ Convenciones:
 
 #### 5.2.1.1. Sprint Planning 1.
 
+Para el desarrollo del sprint 1, el equipo realizó un sprint planning meeting donde se conversaron los temas a realizar y su distribución. El resumen de la reunión se mostrará a continuación:
+
 <table align="center"  border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td>
@@ -164,7 +166,7 @@ Convenciones:
             <b>Time</b>
         </td>
         <td>
-            10:00         
+            8:00 PM         
         </td>
     </tr>
        <tr align="left">
@@ -172,7 +174,7 @@ Convenciones:
             <b>Location</b>
         </td>
         <td>
-            Modalidad Remota por Whatsapp  
+            Reunión sincrónica por Google Meet
         </td>
     </tr>
      </tr>
@@ -181,7 +183,7 @@ Convenciones:
             <b>Prepared By</b>
         </td>
         <td>
-            Integrantes OpenGG 
+            Aru Acevedo, Yair Christofer
         </td>
     </tr>
     </tr>
@@ -190,12 +192,12 @@ Convenciones:
             <b>Attendess (to planning meeting)</b>
         </td>
         <td>
-            - Chavez Uribe, Ario Joel	<br>
-            - Yair Christofer Aru Acevedo <br>
-            - Diego Vicente Seminario Castillo <br>
-            - Astuyauri Herencia Jhomar Cristian Elias <br>
-            - Ccotarma Ttito Sihuar Eduardo Eusebio <br>
-            - Joel Gerson Prudencio Alcantara <br>
+            - Chavez Uribe, Ario Joel<br>
+            - Aru Acevedo, Yair Christofer<br>
+            - Seminario Castillo, Diego Vicente <br>
+            - Astuyauri Herencia, Jhomar Cristian Elias <br>
+            - Ccotarma Ttito Sihuar, Eduardo Eusebio <br>
+            - Prudencio Alcantara, Joel Gerson<br>
         </td>
     </tr>
     </tr>
@@ -222,7 +224,15 @@ Convenciones:
             <b>Sprint Goal & User Stories</b>
         </td>
     </tr>
-      <tr align="left">
+    <tr align="left">
+        <td>
+            <b>Sprint 1 Goal</b>
+        </td>
+        <td>
+            Para el sprint 1, el equipo se dividió las tareas para la elaboración de los capítulos del reporte y la primera versión de la Landing Page. Estos se organizarán en los repositorios de GitHub creándolo para cada uno en una organización.
+        </td>
+    </tr>
+    <tr align="left">
         <td>
             <b>Sprint 1 Velocity</b>
         </td>
@@ -338,6 +348,9 @@ Landing Page:
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
+
+Para el sprint 2, se realizó el sprint planning meeting 2, donde se organizaron las tareas y correcciones a realizar. El resumen se mostrará a continuación:
+
 <table align="center"  border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td>
@@ -365,7 +378,7 @@ Landing Page:
             <b>Time</b>
         </td>
         <td>
-            10:00         
+            7:00 PM         
         </td>
     </tr>
        <tr align="left">
@@ -373,7 +386,7 @@ Landing Page:
             <b>Location</b>
         </td>
         <td>
-            Modalidad Remota por Whatsapp  
+            Reunión sincrónica en Google Meet
         </td>
     </tr>
      </tr>
@@ -382,7 +395,7 @@ Landing Page:
             <b>Prepared By</b>
         </td>
         <td>
-            Integrantes OpenGG 
+            Aru Acevedo, Yair Christofer
         </td>
     </tr>
     </tr>
@@ -391,12 +404,12 @@ Landing Page:
             <b>Attendess (to planning meeting)</b>
         </td>
         <td>
-            - Chavez Uribe, Ario Joel	<br>
-            - Yair Christofer Aru Acevedo <br>
-            - Diego Vicente Seminario Castillo <br>
-            - Astuyauri Herencia Jhomar Cristian Elias <br>
-            - Ccotarma Ttito Sihuar Eduardo Eusebio <br>
-            - Joel Gerson Prudencio Alcantara <br>
+            - Chavez Uribe, Ario Joel<br>
+            - Aru Acevedo, Yair Christofer<br>
+            - Seminario Castillo, Diego Vicente <br>
+            - Astuyauri Herencia, Jhomar Cristian Elias <br>
+            - Ccotarma Ttito Sihuar, Eduardo Eusebio <br>
+            - Prudencio Alcantara, Joel Gerson<br>
         </td>
     </tr>
     </tr>
@@ -423,12 +436,20 @@ Landing Page:
             <b>Sprint Goal & User Stories</b>
         </td>
     </tr>
-      <tr align="left">
+    <tr align="left">
+        <td>
+            <b>Sprint 2 Goal</b>
+        </td>
+        <td>
+            Para el desarrollo de este sprint, el equipo publicará la nueva version de la Landing Page corrigiendo los errores en el mismo, además se presentará la primera version del frontend con la creación de un nuevo repositorio para la organización de su desarrollo.
+        </td>
+    </tr>
+    <tr align="left">
         <td>
             <b>Sprint 2 Velocity</b>
         </td>
         <td>
-            207
+            163
         </td>
     </tr>
        <tr align="left">
@@ -436,7 +457,7 @@ Landing Page:
             <b>Sum of Story Points</b>
         </td>
         <td>
-            37
+            163
         </td>
   </tr>
 </table>
@@ -565,7 +586,7 @@ Frontend:
 
 #### 5.2.3.1. Sprint Planning 3.
 
-En este sprint nos enfocaremos en la corrección de errores detectados en el frontend y en la mejora de la usabilidad general de la aplicación
+En este sprint nos enfocaremos en la corrección de errores detectados en el frontend y en la mejora de la usabilidad general de la aplicación. Por ello, se mostrará el resumen del sprint planning meeting 3:
 
 <table align="center"  border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -611,7 +632,7 @@ En este sprint nos enfocaremos en la corrección de errores detectados en el fro
             <b>Prepared By</b>
         </td>
         <td>
-            Integrantes OpenGG 
+            Aru Acevedo, Yair Christofer
         </td>
     </tr>
     </tr>
@@ -620,12 +641,12 @@ En este sprint nos enfocaremos en la corrección de errores detectados en el fro
             <b>Attendess (to planning meeting)</b>
         </td>
         <td>
-            - Chavez Uribe, Ario Joel	<br>
-            - Yair Christofer Aru Acevedo <br>
-            - Diego Vicente Seminario Castillo <br>
-            - Astuyauri Herencia Jhomar Cristian Elias <br>
-            - Ccotarma Ttito Sihuar Eduardo Eusebio <br>
-            - Joel Gerson Prudencio Alcantara <br>
+            - Chavez Uribe, Ario Joel<br>
+            - Aru Acevedo, Yair Christofer<br>
+            - Seminario Castillo, Diego Vicente <br>
+            - Astuyauri Herencia, Jhomar Cristian Elias <br>
+            - Ccotarma Ttito Sihuar, Eduardo Eusebio <br>
+            - Prudencio Alcantara, Joel Gerson<br>
         </td>
     </tr>
     </tr>
@@ -635,8 +656,8 @@ En este sprint nos enfocaremos en la corrección de errores detectados en el fro
             <b>Review Summary</b>
         </td>
         <td>
-    Crear repositorio para el Backend y asignación de tareas para implementar sus funciones para los pacientes y profesionales de salud mental.
-</td>
+            Se desplegó la nueva versión del frontend con las correcciones indicadas en el proyecto permitiendo su funcionalidad completa. Además, se desplegó la Landing Page con conexión al frontend mediante un botón Call to Action.
+        </td>
     </tr>
     <tr align="left">
         <td>
@@ -653,22 +674,30 @@ En este sprint nos enfocaremos en la corrección de errores detectados en el fro
             <b>Sprint Goal & User Stories</b>
         </td>
     </tr>
-      <tr align="left">
+    <tr align="left">
+        <td>
+            <b>Sprint 3 Goal</b>
+        </td>
+        <td>
+            Para el desarrollo del sprint 3, el equipo estructuró los datos que se utilizaran en el backend para su implementación en el frontend mediante los diagramas.Para ello, se creó el repositorio donde se llevara los commits del desarrollo del backend. Además, se asignaron las tareas a corregir en el reporte.
+        </td>
+    </tr>
+    <tr align="left">
         <td>
             <b>Sprint 3 Velocity</b>
         </td>
         <td>
-            126
+            117
         </td>
     </tr>
-       <tr align="left">
+    <tr align="left">
         <td>
             <b>Sum of Story Points</b>
         </td>
         <td>
-            37
+            138
         </td>
-  </tr>
+    </tr>
 </table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
@@ -756,7 +785,8 @@ Backend:
 
 ### 5.2.4. Sprint 4
 #### 5.2.4.1. Sprint Planning 4
-Para el desarrollo de este último sprint, el equipo corrige los errores restantes y del despliegue del frontend y backend actualizado.
+
+Para el sprint 4, el equipo realizó el sprint planning meeting para la distribución de tareas y revisión de errores a corregir. El resumen se mostrará a continuación:
 
 <table align="center"  border="1" width="90%" style="text-align:center;">
     <tr align="left">
@@ -785,7 +815,7 @@ Para el desarrollo de este último sprint, el equipo corrige los errores restant
             <b>Time</b>
         </td>
         <td>
-            21:00         
+            9:00 PM         
         </td>
     </tr>
        <tr align="left">
@@ -802,7 +832,7 @@ Para el desarrollo de este último sprint, el equipo corrige los errores restant
             <b>Prepared By</b>
         </td>
         <td>
-            Integrantes OpenGG 
+            Aru Acevedo, Yair Christofer
         </td>
     </tr>
     </tr>
@@ -811,32 +841,31 @@ Para el desarrollo de este último sprint, el equipo corrige los errores restant
             <b>Attendess (to planning meeting)</b>
         </td>
         <td>
-            - Chavez Uribe, Ario Joel	<br>
-            - Yair Christofer Aru Acevedo <br>
-            - Diego Vicente Seminario Castillo <br>
-            - Astuyauri Herencia Jhomar Cristian Elias <br>
-            - Ccotarma Ttito Sihuar Eduardo Eusebio <br>
-            - Joel Gerson Prudencio Alcantara <br>
+            - Chavez Uribe, Ario Joel<br>
+            - Aru Acevedo, Yair Christofer<br>
+            - Seminario Castillo, Diego Vicente <br>
+            - Astuyauri Herencia, Jhomar Cristian Elias <br>
+            - Ccotarma Ttito Sihuar, Eduardo Eusebio <br>
+            - Prudencio Alcantara, Joel Gerson<br>
         </td>
     </tr>
     </tr>
        <tr align="left">
         <td>
-            <b>Sprint 4</b>
+            <b>Sprint n - 4</b>
             <b>Review Summary</b>
         </td>
         <td>
-    Crear repositorio para el Backend y asignación de tareas para implementar sus funciones para los pacientes y profesionales de salud mental.
-</td>
+            Se creó la primera versión del backend y se corrigió la mayoria de errores en el reporte. Además, se implementó el diseño final del frontend.
+        </td>
     </tr>
     <tr align="left">
         <td>
-            <b>Sprint 4</b>
+            <b>Sprint n - 4</b>
             <b>Retrospective Summary</b>
         </td>
         <td>
-          Correcion de errores en el Frontend y mejoras en la usabilidad de la aplicación. Se implementaron nuevas funcionalidades como el registro de pacientes, profesionales y medicamentos, así como la visualización de estadísticas biológicas.
-            Se desarrollaron endpoints para la gestión de pacientes, profesionales y medicamentos, permitiendo una interacción más fluida con la aplicación. Además, se mejoró la interfaz de usuario para facilitar la navegación y el acceso a las diferentes funcionalidades.
+            Según los miembros del equipo, se logró corregir la mayoria del reporte, frontend y se implementó un backend sólido en la estructura para el consumo de API por parte del frontend.
         </td>
     </tr>
     <tr align="left">
@@ -844,12 +873,20 @@ Para el desarrollo de este último sprint, el equipo corrige los errores restant
             <b>Sprint Goal & User Stories</b>
         </td>
     </tr>
-      <tr align="left">
+    <tr align="left">
+        <td>
+            <b>Sprint 4 Goal</b>
+        </td>
+        <td>
+            Para el desarrollo del sprint 4, el equipo publicara la ultima version del frontend y backend corrigiendo las errores indicados además de añadir las secciones faltantes en el reporte. Además de realizar la conexión entre ambos apartados.
+        </td>
+    </tr>
+    <tr align="left">
         <td>
             <b>Sprint 4 Velocity</b>
         </td>
         <td>
-            126
+            61
         </td>
     </tr>
        <tr align="left">
@@ -857,9 +894,9 @@ Para el desarrollo de este último sprint, el equipo corrige los errores restant
             <b>Sum of Story Points</b>
         </td>
         <td>
-            37
+            61
         </td>
-  </tr>
+    </tr>
 </table>
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
