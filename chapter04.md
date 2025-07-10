@@ -268,32 +268,75 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1. Class Diagrams.
+#### BOUNDEND CONTEXT 
+<img src="assets/1.png">
+
+#### BOUNDEND CONTEXT
+<img src="assets/2.png">
+
+#### BOUNDEND CONTEXT 
+<img src="assets/3.png">
+
+#### BOUNDEND CONTEXT 
+<img src="assets/4.png">
+
+#### BOUNDEND CONTEXT 
+<img src="assets/5.png">
+
+
 ![Diagrama de Clases](assets/diagrama_de_clases_open.jpeg)
 
-### 4.7.2.Class Dictionary
+## 4.7.2. Class Dictionary
+
 En esta sección se mostrará el diccionario de las clases, usado para el desarrollo de nuestra app.<br>
-__Account__: Clase que contiene los atributos de la cuenta como nombre de usuario, contraseña y rol.<br>
-__Professional__: Clase que contiene los atributos de los profesionales como nombre, apellido y correo electrónico.<br>
-__Patient__: Clase que contiene los atributos de los pacientes como nombre, apellido, correo y vínculo a la historia clínica.<br>
-__ClinicalHistory__: Clase que contiene los antecedentes médicos, síntomas y motivo de consulta de un paciente.<br>
-__Diagnostic__: Clase que contiene los diagnósticos médicos vinculados a una historia clínica.<br>
-__Session__: Clase que contiene los atributos de las sesiones médicas, incluyendo fecha, profesional, paciente y nota.<br>
-__Note__: Clase que contiene las notas clínicas de cada sesión, describiendo síntomas y observaciones.<br>
-__Treatment__: Clase que contiene los tratamientos asignados a los pacientes, con nombre, descripción e intervalo de tiempo.<br>
-__Medication__: Clase que contiene los medicamentos prescritos a los pacientes, su dosificación y duración del tratamiento.<br>
-__Prescription__: Clase que contiene una receta que agrupa múltiples medicamentos para un paciente.<br>
-__MedicalPrescription__: Clase que contiene las prescripciones médicas asociadas a un paciente y a un profesional.<br>
-__Speciality__: Clase que contiene la especialidad de los profesionales, como psiquiatría o psicología clínica.<br>
-__PatientMood__: Clase que contiene los registros de estado de ánimo de los pacientes.<br>
-__BiologicalFunction__: Clase que contiene los registros de funciones biológicas del paciente como hambre, hidratación, sueño y energía.<br>
-__Task__: Clase que contiene las tareas asignadas a los pacientes, su estado y fechas de creación y actualización.<br>
-__PatientNotification__: Clase que contiene las notificaciones no vistas por el paciente.<br>
-__PatientMoodAnalytic__: Clase que contiene el análisis mensual del estado de ánimo del paciente.<br>
-__PatientBiologicalAnalytic__: Clase que contiene el análisis mensual de las funciones biológicas del paciente.<br>
+
+- **Account**: Clase que contiene los atributos de la cuenta como nombre de usuario, contraseña y rol.
+
+- **User**: Clase que representa a un usuario general del sistema, incluyendo atributos como nombre, apellido, correo y credenciales de acceso.
+
+- **Patient**: Clase que contiene los atributos de los pacientes como nombre, apellido, correo y vínculo a la historia clínica, tratamiento y usuario asociado.
+
+- **Professional**: Clase que contiene los atributos de los profesionales como nombre, apellido, correo electrónico y vínculo a los pacientes asignados y sus respectivos planes de tratamiento.
+
+- **ClinicalHistory**: Clase que contiene los antecedentes médicos, síntomas y motivo de consulta de un paciente.
+
+- **Diagnostic**: Clase que contiene los diagnósticos médicos vinculados a una historia clínica, junto con su descripción y fecha.
+
+- **Session**: Clase que contiene los atributos de las sesiones médicas, incluyendo fecha, hora, profesional, paciente y nota clínica.
+
+- **Note**: Clase que contiene las notas clínicas de cada sesión, describiendo síntomas y observaciones del paciente.
+
+- **TreatmentPlan**: Clase que agrupa los diagnósticos, medicamentos, funciones biológicas, sesiones, notas y prescripciones asociadas a un paciente.
+
+- **Prescription**: Clase que contiene una receta que agrupa múltiples medicamentos para un paciente, incluyendo detalles de cada uno.
+
+- **MedicalPrescription**: Clase que contiene las prescripciones médicas asociadas a un paciente y a un profesional responsable.
+
+- **Medication**: Clase que contiene los medicamentos prescritos a los pacientes, incluyendo nombre, intervalo, cantidad y fechas de inicio y fin.
+
+- **Speciality**: Clase que contiene la especialidad de los profesionales, como psiquiatría o psicología clínica.
+
+- **BiologicalFunction**: Clase que contiene los registros de funciones biológicas del paciente como hambre, hidratación, sueño y energía, permitiendo su seguimiento y evaluación.
+
+- **PatientMood**: Clase que contiene los registros de estado de ánimo de los pacientes, almacenando la emoción reportada y la fecha de registro.
+
+- **Task**: Clase que contiene las tareas asignadas a los pacientes, con atributos como mes, año y estado promedio de cumplimiento.
+
+- **PatientNotification**: Clase que contiene las notificaciones no vistas por el paciente, permitiendo conocer cuántos recordatorios pendientes tiene.
+
+- **PatientMoodAnalytic**: Clase que contiene el análisis mensual del estado de ánimo del paciente, separando emociones positivas y negativas.
+
+- **PatientBiologicalAnalytic**: Clase que contiene el análisis mensual de las funciones biológicas del paciente como promedios de hambre, hidratación, sueño y energía.
+
+- **PatientTreatmentPlan**: Clase que permite gestionar el plan de tratamiento de un paciente desde la perspectiva del paciente, permitiéndole confirmar tareas o añadir funciones biológicas.
+
+- **ProfessionalTreatmentPlan**: Clase que permite a los profesionales gestionar tratamientos, añadir medicamentos o actualizar prescripciones relacionadas a sus pacientes.
+
+- **TreatmentTasks**: Clase encargada de representar las tareas específicas que se desprenden del plan de tratamiento, con posibilidad de leer o actualizar tareas y diagnósticos asociados.
 
 ### 4.8. Database Design
 ### 4.8.1 Database Diagram
 <p align="center">
-<img src="assets/base_de_datos.png">
+<img src="assets/base de datos final.png">
 </p>
 
