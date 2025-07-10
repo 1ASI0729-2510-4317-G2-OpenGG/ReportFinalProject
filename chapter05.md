@@ -1029,6 +1029,8 @@ Link de la entrevista: [Entrevista_Profesional](https://upcedupe-my.sharepoint.c
 - **Entrevistada:** Sara Silva  
 - **Inicio de la entrevista (preguntas):** 00:00:23
 
+<img src="./assets/VP1.png">
+
 #### Resumen:
 
 Sara Silva comentó que las funcionalidades que más utiliza en la aplicación son las pestañas de pacientes, historias clínicas y citas, ya que le permiten visualizar fácilmente los registros y las citas pendientes, lo cual considera muy útil. Por otro lado, mencionó que la pestaña de configuración es la que menos usa, ya que solo se requiere al inicio y no resulta tan necesaria durante el uso continuo.
@@ -1051,6 +1053,8 @@ Link de la entrevista: [Entrevista_Pacientes](https://upcedupe-my.sharepoint.com
 - **Entrevistado:** Luigi Paccini Sánchez  
 - **Inicio de la entrevista (preguntas):**  00:00:13
 
+<img src="./assets/VL1.png">
+
 #### Resumen:
 
 El entrevistado comentó que la sección que más utiliza en la aplicación es la de gestión de citas, ya que le permite agendar desde casa sin tener que desplazarse al consultorio. Considera que acceder a la información es sencillo, gracias a su perfil personalizado, donde puede consultar fácilmente los horarios y datos relacionados a sus sesiones.
@@ -1069,6 +1073,8 @@ Link de la entrevista: [Entrevista_Pacientes](https://upcedupe-my.sharepoint.com
 
 - **Entrevistado:** Uriel Ortiz  
 - **Inicio de la entrevista (preguntas):** 00:00:15
+
+<img src="./assets/VL2.png">
 
 #### Resumen:
 
