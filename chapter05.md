@@ -529,8 +529,7 @@ Repositorio del Frontend en GitHub: <a href="https://github.com/1ASI0729-2510-43
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
 En el sprint 2, se logró un avance en la implementación y despliegue del front-end. Se desarrollaron varias secciones clave donde el usuario puede interactuar con las funcionalidades principales del sistema. A continuación, se presentan algunas evidencias:
-
-Puedes acceder a nuestro Frontend en el siguiente enlace: [Frontend - PsyMed]([https://json-server-psymed.vercel.app/](https://68278f4129acb155f4de3d57--frontopenggpsymed.netlify.app/))
+Puedes acceder a nuestro Frontend en el siguiente enlace: https://prismatic-cocada-f9b829.netlify.app/
 
 <img src="./assets/front1.png" alt="front1-image">
 
