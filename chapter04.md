@@ -337,6 +337,7 @@ En esta sección se mostrará el diccionario de las clases, usado para el desarr
 ### 4.8. Database Design
 ### 4.8.1 Database Diagram
 <p align="center">
-<img src="assets/base de datos final.png">
+
+<img src="assets/databasediagram.svg">
 </p>
 
